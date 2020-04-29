@@ -1,0 +1,953 @@
+{
+  "-KUX10s6lmG4NtCu75LR" : {
+    "Users" : {
+      "5c94d210-f5f4-46b4-ad9c-9681a3e834e6" : {
+        "completionPercent" : 91,
+        "isCompleted" : true,
+        "questionsAnswered" : 10,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477322673588,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322688132,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477322698196,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322705494,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322721612,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322726684,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322730719,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322742187,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322752779,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322766919,
+          "answers" : [ 0 ]
+        } ],
+        "submitTimestamp" : 1477322770738
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "eeb197cb-07f2-420b-bd99-06a38cb27b72" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 11,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477330233371,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330245108,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477330258672,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477330291244,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330314876,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330322834,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330338064,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330371485,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330393323,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330407711,
+          "answers" : [ 0 ]
+        }, {
+          "comment" : "Business clients are willing to pay extra for shorter turn times, the student and consumer cannot afford that.",
+          "commentTimeStamp" : 1477330449148
+        } ],
+        "submitTimestamp" : 1477330452903
+      },
+      "f2c1f5c7-61ba-4ae2-b06f-6a18d3036fe5" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 11,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477325542264,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477325553052,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325563085,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477325573565,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325580630,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325591516,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325597932,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325605819,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325613249,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325618536,
+          "answers" : [ 0 ]
+        }, {
+          "comment" : "Computer workstation pricing is way too high. The 30 cents per minute is fine, but the price for printing is practically double what we charge behind the counter and in self serve. More people would utilize the workstations if the pricing was only a small amount higher than the self serve copiers. Instead, most customers opt to wait in line longer than they need to instead of using the workstations.",
+          "commentTimeStamp" : 1477325786956
+        } ],
+        "submitTimestamp" : 1477325789652
+      }
+    }
+  },
+  "-KUX3jfrlGAkyX9QIybh" : {
+    "Users" : {
+      "75159deb-0fd5-49ee-81df-9aa2d899dc94" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477330852062,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477330836151,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477330863066,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477330880371,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477330887553,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477330900552,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477331094798,
+          "answers" : [ 5, 4, 2 ]
+        } ],
+        "submitTimestamp" : 1477331102502
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "a3bcd506-df5c-45ef-a0f1-7c084369d2dd" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477323710441,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477323722504,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477323726465,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477323741447,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477323750271,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477323754886,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477323768356,
+          "answers" : [ 5, 0, 1 ]
+        } ],
+        "submitTimestamp" : 1477323774053
+      },
+      "ad38d8b0-70f3-4718-a8f8-a64f7a20ca3e" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477324934031,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477324945966,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477324955381,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325217929,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325216792,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477325228359,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477325250735,
+          "answers" : [ 0, 1, 2, 3, 4, 5 ]
+        } ],
+        "submitTimestamp" : 1477325257702
+      },
+      "aee71060-16e9-4df8-b67c-1577220a3937" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 8,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477329534751,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477329544756,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477329549201,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477329559409,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477329565094,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477329570187,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477329591769,
+          "answers" : [ 1, 4, 3, 2, 0 ]
+        }, {
+          "comment" : "Unable to select the two options in the last question but Mid Sized Businesses and Professional Consumers are the top 2.",
+          "commentTimeStamp" : 1477329628545
+        } ],
+        "submitTimestamp" : 1477329630840
+      }
+    }
+  },
+  "-KUX7snClpM1YoHnM07M" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  },
+  "-KUX9HutbgMjyrWCsrAB" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 17,
+        "questionsAnswered" : 1,
+        "selectedAnswers" : {
+          "4" : {
+            "answerTimeStamp" : 1477294482512,
+            "answers" : [ 2 ]
+          }
+        }
+      },
+      "f1f56d58-2eaf-4ff4-9a44-b67ffc251d22" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477319095656,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477319097384,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477319102720,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477319106873,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477319114186,
+          "answers" : [ 1 ]
+        }, {
+          "comment" : "Our service is used regularly and people think it is a fair price. There is a small shop nearby that charges $0.69 per pound, but i have never heard a complaint or had to price match.",
+          "commentTimeStamp" : 1477319171603
+        } ],
+        "submitTimestamp" : 1477319177794
+      }
+    }
+  },
+  "-KUXBeAAT4fRuL6KkRY6" : {
+    "Users" : {
+      "8cd409e8-1a0f-4b7b-9049-7d899534d8e5" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477328147001,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328159298,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477328175229,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477328197791,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477328209818,
+          "answers" : [ 2 ]
+        }, {
+          "comment" : "There should be a cancel button on them.  And our computer generated cover sheet does not work.  Customers like it, except the price and the amount of time it takes for each page.",
+          "commentTimeStamp" : 1477328331959
+        } ],
+        "submitTimestamp" : 1477328345739
+      },
+      "9e77901a-3d0c-4945-bf98-b123fe028fb0" : {
+        "completionPercent" : 83,
+        "isCompleted" : true,
+        "questionsAnswered" : 5,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477330834495,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330845511,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477330851999,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330856383,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330861999,
+          "answers" : [ 2 ]
+        } ],
+        "submitTimestamp" : 1477330868644
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "a3bcd506-df5c-45ef-a0f1-7c084369d2dd" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477323781212,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477323789939,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477323795524,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477323798187,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477323800803,
+          "answers" : [ 2 ]
+        }, {
+          "comment" : "customers are always complaining about the price but they can never show me that pricing is dramatically cheaper somewhere else,",
+          "commentTimeStamp" : 1477324041540
+        } ],
+        "submitTimestamp" : 1477324046908
+      }
+    }
+  },
+  "-KUXF1T0glcYpFfE21U-" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  },
+  "-KUXGwM6_zPpt3SmxBmD" : {
+    "Users" : {
+      "3a56b8fd-3e26-4d6b-92c0-9b5cf4fcd731" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "3feaf248-a990-4ad9-b4e9-f0152e52ae1c" : {
+        "completionPercent" : 86,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477325875942,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325840729,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325852591,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477325868510,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325873204,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325900697,
+          "answers" : [ 1 ]
+        } ],
+        "submitTimestamp" : 1477325908193
+      },
+      "9e77901a-3d0c-4945-bf98-b123fe028fb0" : {
+        "completionPercent" : 86,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477330877645,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330880510,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477330883572,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477330888453,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330891157,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330895997,
+          "answers" : [ 2 ]
+        } ],
+        "submitTimestamp" : 1477330899418
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  },
+  "-KUXJ8wJnWF1gMcbgRUi" : {
+    "Users" : {
+      "33ee39b4-7177-4a25-b713-5a4f70498411" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477320625733,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477320641186,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477320647674,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477320655746,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477320659761,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477320665351,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477320698248,
+          "answers" : [ 5, 2, 0, 4 ]
+        } ],
+        "submitTimestamp" : 1477320703172
+      },
+      "5c94d210-f5f4-46b4-ad9c-9681a3e834e6" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477322777739,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322792114,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322795442,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322808705,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322813201,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477322816154,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322874305,
+          "answers" : [ 2, 1, 0, 3 ]
+        } ],
+        "submitTimestamp" : 1477322877416
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "eeb197cb-07f2-420b-bd99-06a38cb27b72" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477330463496,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330482238,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330488130,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477330498679,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330507533,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477330515436,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477330544578,
+          "answers" : [ 0, 1, 4 ]
+        } ],
+        "submitTimestamp" : 1477330548509
+      }
+    }
+  },
+  "-KUXJfcAKSPFNusZth9_" : {
+    "Users" : {
+      "32b19f81-93d3-495e-bfdb-dd9230d40b0b" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477328583144,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477328600699,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477328613005,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477328625658,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477328631451,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477328640549,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328658894,
+          "answers" : [ 6, 4, 3, 5 ]
+        } ],
+        "submitTimestamp" : 1477328665079
+      },
+      "3feaf248-a990-4ad9-b4e9-f0152e52ae1c" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477325919360,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325966590,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477325972751,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325980624,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325988287,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477326027197,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477326160801,
+          "answers" : [ 4, 1, 3, 5 ]
+        } ],
+        "submitTimestamp" : 1477326467257
+      },
+      "75159deb-0fd5-49ee-81df-9aa2d899dc94" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477331119036,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477331134677,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477331144284,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477331158043,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477331166960,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477331174345,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477331206785,
+          "answers" : [ 4, 2 ]
+        } ],
+        "submitTimestamp" : 1477331217269
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  },
+  "-KUXKFlrn_Ai77t7Z9mu" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  },
+  "-KUXLJySfMeI24i7t2oE" : {
+    "Users" : {
+      "32b19f81-93d3-495e-bfdb-dd9230d40b0b" : {
+        "completionPercent" : 86,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477328744790,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328755414,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477328759899,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477328829354,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328837516,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328908425,
+          "answers" : [ 1 ]
+        } ],
+        "submitTimestamp" : 1477328922759
+      },
+      "33ee39b4-7177-4a25-b713-5a4f70498411" : {
+        "completionPercent" : 86,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477320711925,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477320717388,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477320721964,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477320727420,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477320730427,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477320736355,
+          "answers" : [ 4 ]
+        } ],
+        "submitTimestamp" : 1477320740258
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 14,
+        "questionsAnswered" : 1,
+        "selectedAnswers" : {
+          "5" : {
+            "answerTimeStamp" : 1477293961484,
+            "answers" : [ 4 ]
+          }
+        }
+      },
+      "e4020c7f-4f80-47b2-8812-1389a92dd666" : {
+        "completionPercent" : 86,
+        "isCompleted" : true,
+        "questionsAnswered" : 6,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477322474305,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322480573,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322486362,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477322503426,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477322509576,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322516816,
+          "answers" : [ 1 ]
+        } ],
+        "submitTimestamp" : 1477322522902
+      }
+    }
+  },
+  "-KUXLO4V3bM6vDIFpGDz" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "aee71060-16e9-4df8-b67c-1577220a3937" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 8,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477329640177,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477329646804,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477329652898,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477329657981,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477329664080,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477329672746,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477329729602,
+          "answers" : [ 2 ]
+        }, {
+          "comment" : "Please please please add a comment about how color might vary. The screen color vs printed product is never /exact/ and I've gotten yelled at for it not being so perfectly precise. ",
+          "commentTimeStamp" : 1477329802210
+        } ],
+        "submitTimestamp" : 1477329804758
+      }
+    }
+  },
+  "-KUXM5PstQTVC4Psj8qm" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "e4020c7f-4f80-47b2-8812-1389a92dd666" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477322535447,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477322545423,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322555418,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322562734,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322570395,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322576479,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477322580430,
+          "answers" : [ 2 ]
+        } ],
+        "submitTimestamp" : 1477322585509
+      }
+    }
+  },
+  "-KUaLAT3gaV1pnTbVXxw" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "ad38d8b0-70f3-4718-a8f8-a64f7a20ca3e" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477325267204,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477325276900,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325282147,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325290499,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325299762,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325306474,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477325311129,
+          "answers" : [ 4 ]
+        } ],
+        "submitTimestamp" : 1477325322464
+      },
+      "f2c1f5c7-61ba-4ae2-b06f-6a18d3036fe5" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477325796529,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477325805255,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325808601,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325812821,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477325825843,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477325829372,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477325833297,
+          "answers" : [ 1 ]
+        } ],
+        "submitTimestamp" : 1477325837393
+      }
+    }
+  },
+  "-KUaM7eyNCNRburcvR1U" : {
+    "Users" : {
+      "8cd409e8-1a0f-4b7b-9049-7d899534d8e5" : {
+        "completionPercent" : 88,
+        "isCompleted" : true,
+        "questionsAnswered" : 7,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477328362663,
+          "answers" : [ 3 ]
+        }, {
+          "answerTimeStamp" : 1477328384697,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477328390571,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477329250345,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477329253721,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477328438666,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477329217242,
+          "answers" : [ 1 ]
+        }, {
+          "comment" : "",
+          "commentTimeStamp" : 1477329070370
+        } ],
+        "submitTimestamp" : 1477329259336
+      },
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "ce692e88-85a1-4b82-bc4b-2379b9f685bf" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "f1f56d58-2eaf-4ff4-9a44-b67ffc251d22" : {
+        "completionPercent" : 100,
+        "isCompleted" : true,
+        "questionsAnswered" : 8,
+        "selectedAnswers" : [ {
+          "answerTimeStamp" : 1477319186892,
+          "answers" : [ 4 ]
+        }, {
+          "answerTimeStamp" : 1477319203151,
+          "answers" : [ 0 ]
+        }, {
+          "answerTimeStamp" : 1477319209454,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477319214709,
+          "answers" : [ 2 ]
+        }, {
+          "answerTimeStamp" : 1477319221817,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477319230255,
+          "answers" : [ 1 ]
+        }, {
+          "answerTimeStamp" : 1477319238783,
+          "answers" : [ 1 ]
+        }, {
+          "comment" : "We do not do brochures often in our store. Side note: We are 300% higher than our competition for 24x36BW. We have about 15 (a lot for our store) customers that price match to blueprints inc. I feel bad charging the full price to customers that don't know about the price match and they say its expensive. ",
+          "commentTimeStamp" : 1477319446416
+        } ],
+        "submitTimestamp" : 1477319497404
+      }
+    }
+  },
+  "-KUaNI8t4NQvKZDUx3uE" : {
+    "Users" : {
+      "OG2W4U0qZQabvnOLoR3bnimXjky1" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      },
+      "ce692e88-85a1-4b82-bc4b-2379b9f685bf" : {
+        "completionPercent" : 0,
+        "questionsAnswered" : 0
+      }
+    }
+  }
+}
