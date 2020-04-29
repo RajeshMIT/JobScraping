@@ -9,7 +9,7 @@ for i in range(1, 25):
     dDict = {}
     time = 1479906000 + (i - 1) * 3600
     url = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=61+strathmore+road+brighton+MA&destinations=New+york+city+NY&departure_time=" + str(
-        time) + "&traffic_model=optimistic&key=AIzaSyC_RO1xK2sO8HUL494XRcY1y575KF04h5U"
+        time) + "&traffic_model=optimistic&key=<apikey>"
 
     try:
         request = urllib.request.Request(url, headers={'content-type': 'application/json'})
