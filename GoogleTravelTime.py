@@ -14,11 +14,11 @@ for i in range(1, 121):
     dDict['Start time'] = current_time
 
     url1 = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=61+strathmore+road+brighton+MA&destinations=staples+drive+framingham+MA&departure_time=" + str(
-        epoch_time) + "&traffic_model=best_guess&key=AIzaSyC_RO1xK2sO8HUL494XRcY1y575KF04h5U"
+        epoch_time) + "&traffic_model=best_guess&key=<apikey>"
     url2 = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=61+strathmore+road+brighton+MA&destinations=staples+drive+framingham+MA&departure_time=" + str(
-        epoch_time) + "&traffic_model=optimistic&key=AIzaSyC_RO1xK2sO8HUL494XRcY1y575KF04h5U"
+        epoch_time) + "&traffic_model=optimistic&key=<apikey>"
     url3 = "https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=61+strathmore+road+brighton+MA&destinations=staples+drive+framingham+MA&departure_time=" + str(
-        epoch_time) + "&traffic_model=pessimistic&key=AIzaSyC_RO1xK2sO8HUL494XRcY1y575KF04h5U"
+        epoch_time) + "&traffic_model=pessimistic&key=<apikey>"
 
     request = urllib.request.Request(url1, headers={'content-type': 'application/json'})
     html = urllib.request.urlopen(request)
